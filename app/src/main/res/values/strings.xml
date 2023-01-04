@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name_header">MeshulamSKD</string>
+    <string name="key_url_secure">https://secure.meshulam.co.il/</string>
+    <string name="key_url_plus">https://plusecure.meshulam.co.il/</string>
+    <string name="key_url_dev">https://dev.meshulam.co.il/</string>
+    <string name="nis">₪</string>
+
+    <!--    show Retry Bit Payment Dialog-->
+    <string name="key_retry_payment_title">האם אתה בטוח שברצונך לבטל את תהליך התשלום?</string>
+    <string name="key_retry_payment_blue_btn">המשך עם</string>
+    <string name="key_retry_payment_gray_btn">ביטול</string>
+
+    <!--    Error Dialog-->
+    <string name="key_error_dialog_btn">ביטול</string>
+
+    <!--    Cancel Dialog-->
+    <string name="key_cancel_payment_title">האם אתה בטוח שברצונך לבטל את תהליך התשלום?</string>
+    <string name="key_cancel_payment_blue_btn">המשך עם</string>
+    <string name="key_cancel_payment_gray_btn">ביטול</string>
+
+    <!--    SDK Activity-->
+    <string name="key_sdk_activity_title">מיד תעברו\nלתשלום ב-</string>
+    <string name="key_sdk_activity_wait">אנו מעבירים את הכסף\nזה יקח כמה רגעים</string>
+
+</resources>
